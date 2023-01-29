@@ -1,0 +1,40 @@
+.emphasisParagraph {
+    display: block;
+    position: relative;
+    left: 2em;
+    color: green;
+    font-family: "Comic Sans MS";
+    font-size: 20px;
+}
+
+.heading {
+    text-align: center;
+    font-size: 60px;
+}
+
+.formContainer {
+    display: block;
+    position: relative;
+    text-align: center;
+    position: relative;
+    font-weight: bold;
+    background-color: rgb(122, 56, 183);
+    color: white;
+    width: 30em;
+    float: right;
+    border-radius: 20px;
+    /* left: 920px;
+    bottom: 550px;
+    width: 30em;
+    height: 17em; */
+}
+
+.linkContainer {
+    text-align: center;
+    position: relative;
+    font-weight: bold;
+}
+
+.linkContainer a {
+    color: rgb(111, 56, 212);
+}
