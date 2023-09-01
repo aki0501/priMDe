@@ -1,2 +1,2 @@
-# QwerHacksProject2023
+# Qwer Hacks Project 2023
 healthcare equity!
